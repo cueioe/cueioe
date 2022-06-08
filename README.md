@@ -1,0 +1,5 @@
+- # Sobre mim
+- 👋 ola meu nome é @cueioe
+- 👀 eu estou interessado em aprender a programar novas linguagens
+- 👍 meu email de contato é goes.guilherme@escola.pr.gov.br
+- 🌱 eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
